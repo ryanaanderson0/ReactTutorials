@@ -3,9 +3,11 @@ import React from "react"
 
 function Header() {
     return(
-        <nav>
-            <h1>This is the header portion!</h1>
-        </nav>
+        <header className="navbar">
+            <nav>
+                <h1>This is the header portion!</h1>
+            </nav>
+        </header>
     )
 }
 
