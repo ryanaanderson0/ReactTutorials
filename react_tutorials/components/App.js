@@ -1,7 +1,4 @@
 import React from "react"
-import React from "react-dom"
-
-
 
 import Header from "./Header"
 import MainContent from "./MainContent"
