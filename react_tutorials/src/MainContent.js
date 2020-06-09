@@ -2,7 +2,7 @@ import React from "react"
 
 function MainContent() {
     return(
-        <body>
+        <div>
             <h1>Hello, I'm Ryan Anderson</h1>
             <h2>These are the people I love:</h2>
             <ul>
@@ -10,7 +10,7 @@ function MainContent() {
                 <li>Viola</li>
                 <li>Jimmy</li>
             </ul>
-        </body>
+        </div> 
     )
 }
 
